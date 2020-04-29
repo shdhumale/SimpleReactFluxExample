@@ -1,0 +1,3 @@
+export const SHOW_ACTION1 = 'SHOW_ACTION1'
+export const SHOW_ACTION2 = 'SHOW_ACTION2'
+
